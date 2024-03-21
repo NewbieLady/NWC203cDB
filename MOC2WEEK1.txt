@@ -1,0 +1,11 @@
+7
+None of the above 
+2
+7
+Go-back-N ARQ and Selective Repeat ARQ protocols have similar performance
+to ensure a sequence of information packet is delivered in order
+to ensure a sequence of information packet is delivered without errors or duplication despite transmission errors and losses
+NAKs
+Pipelining
+False
+All of the above

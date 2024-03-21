@@ -1,0 +1,13 @@
+All of the above
+2
+3
+5
+6
+All of the above
+Limited metric use
+Slow convergence
+Each router builds an identical link-state database
+Allows routers to build shortest path tree with router as root
+Enables each router to learn complete network topology
+All of the above
+ll routers immediately update their link database and recalculate their shortest path

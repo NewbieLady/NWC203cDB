@@ -1,0 +1,7 @@
+Physical address
+90%
+None of the above
+All of the above
+Data link layer is concerned with framing and the transport layer is not
+Presentation layer and Session layer
+All of the above

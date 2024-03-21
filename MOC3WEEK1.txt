@@ -1,0 +1,10 @@
+All of the above
+3m + 3n
+5m + 3n
+The frame will reach both bridges B1 and B2
+The frame will reach both bridges B1 and B2
+Repeater
+False
+Network layer
+All of the above
+3.2

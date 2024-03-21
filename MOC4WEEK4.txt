@@ -1,0 +1,11 @@
+Availability
+Middle layer
+All of the above
+SDN is an open API for that provides standard interface for programming switches
+NFVI
+If shortest path to source is through the same port, router forwards the packet to all other ports
+If shortest path to source is through different port, router drops the packet
+Correspondent node
+Efficiency
+Source address
+designated parent router

@@ -1,0 +1,12 @@
+Fair queueing attempts to provide equal-size buffers to flows
+Head-of-Line queueing
+In the leaky bucket, the packet output rate can be variable
+76.8 Mbps
+Token bucket size is zero 
+All of the above
+Drop strategy
+Improves performance of cooperating TCP sources
+Packets produced by TCP will reduce input rate in response to network congestion
+Buffer length
+Link utilization
+A time-out due to missing acknowledgement

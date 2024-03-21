@@ -1,0 +1,12 @@
+All of the above
+Slotted ALOHA
+Round-trip propagation delay
+10 frames per second
+1250 Bytes
+Does not scale well to large numbers of users
+Inflexible in allocating bandwidth to users with different requirements
+Inefficient for bursty traffic
+Round-trip
+Reduced
+Sense before transmit
+Reduced computational or procedural complexity

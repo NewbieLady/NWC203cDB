@@ -1,0 +1,13 @@
+568
+All of the above
+Source only
+All of the above
+IP tunneling 
+Fragmentation offset
+Flags
+Identification
+2128
+A single interface may be assigned multiple IPv6 addresses of any type
+Every IPv6 interface contains at least one loopback address
+All of the above
+Discarded due to the nature of the packet address

@@ -1,0 +1,12 @@
+0.122
+Its easy and low-cost deployment
+Its support to personal and mobile devices
+The hidden station problem
+SIFS
+Both contain framing information that delineates the beginning and end of each frame
+CSMA/CA
+Roaming within ESS
+Power management
+Contention window
+False
+Loop

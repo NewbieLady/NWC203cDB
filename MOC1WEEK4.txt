@@ -1,0 +1,10 @@
+11000011
+x^2 + x + 1
+1001110
+g(x) = x + 1 
+Simplicity of implementation
+False
+0
+Generator
+1111
+An odd number of

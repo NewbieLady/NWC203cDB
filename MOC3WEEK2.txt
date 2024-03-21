@@ -1,0 +1,11 @@
+All of the above
+All of the above
+1
+5
+All of the above
+6
+Dijkstra's algorithm
+spanning tree
+All of the above
+True
+False

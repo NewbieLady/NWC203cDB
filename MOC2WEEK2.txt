@@ -1,0 +1,13 @@
+110111110110111110110101
+11101111111111011111
+Byte stuffing
+Bit stuffing
+All of the above
+Initiator and authenticator share a secret key
+Authenticator can reissue challenge during session
+All of the above
+False
+True
+GFP provides flexible encapsulation framework that supports either a fixed or variable length frame structure
+GFP uses a variation of HEC-based self delineation technique
+GFP uses an explicit payload length indicator provided in its frame header to accommodate variable length PDUs
